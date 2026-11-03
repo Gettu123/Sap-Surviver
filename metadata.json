@@ -1,0 +1,6 @@
+{
+  "name": "SAP Survivor — A Folha Não Pode Parar!",
+  "description": "Jogo arcade retrô de sobrevivência ao fechamento da folha de pagamento SAP HCM com batalhas contra bugs, chamados e chefões do DP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
